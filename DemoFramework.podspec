@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
 
   spec.description  = "this is sample demo project, nothing more to right here"
 
-  spec.homepage     = "https://github.com/AniRut907/DemoFramework"
+  spec.homepage     = "https://github.com/AniRut907/DemoFramework.git"
 
 
   spec.license      = "MIT"
