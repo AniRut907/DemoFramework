@@ -15,7 +15,7 @@ public class Manager {
         print("Thank you so much")
         print("git hub integration completed")
         
-        var str = """
+        let str = """
              git clone
              change directory
              git add . (before doing any commit or any new file add)
@@ -23,6 +23,7 @@ public class Manager {
              git push origin branchName
              
         """
+        print(str)
     }
     public func isValidEmail(_ email: String) -> Bool {
         let emailRegEx = "[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,64}"
