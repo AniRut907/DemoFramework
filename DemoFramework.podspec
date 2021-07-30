@@ -10,12 +10,12 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "DemoFramework"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "this is a demo framework"
 
   spec.description  = "this is sample demo project, nothing more to right here"
 
-  spec.homepage     = "https://github.com/AniRut907/DemoFramework.git"
+  spec.homepage     = "https://github.com/AniRut907/DemoFramework"
 
 
   spec.license      = "MIT"
