@@ -9,8 +9,8 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "DemoFramework"
-  spec.version      = "1.0.1"
+  spec.name         = "NewDemoFramework"
+  spec.version      = "1.0.3"
   spec.summary      = "this is a demo framework"
 
   spec.description  = "this is sample demo project, nothing more to right here"

@@ -1,0 +1,10 @@
+framework module DemoFramework {
+  umbrella header "DemoFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module DemoFramework.__Swift {
+    exclude header "DemoFramework-Swift.h"
+}

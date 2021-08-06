@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/aniket.lokhande/Library/Developer/Xcode/DerivedData/DemoFramework-fevxteovpsjocygrwattejsfwegc/Build/Products/Debug-iphonesimulator/DemoFramework.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/aniket.lokhande/Documents/Practice/Framework/DemoFramework/DemoFramework/build/DemoFramework.build/Debug-iphonesimulator/DemoFramework.build/unextended-module.modulemap",
+    }]
+  }]
+}

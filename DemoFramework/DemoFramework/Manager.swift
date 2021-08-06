@@ -14,6 +14,7 @@ public class Manager {
         print("Manager created successfully!")
         print("Thank you so much")
         print("git hub integration completed")
+        print("added email validation")
         
         
     }
