@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "11cfdcc2b06491313bc556fc8c17d400"
-build_time: [1628246993, 393954000]
-inputs:
-  "/Users/aniket.lokhande/Documents/Practice/Framework/DemoFramework/DemoFramework/DemoFramework/Manager.swift": [1628159855, 623586033]
